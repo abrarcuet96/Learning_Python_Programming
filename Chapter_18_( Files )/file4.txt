@@ -1,0 +1,4 @@
+Abrar,100
+Haider,50
+Araf,200
+Ilham,500

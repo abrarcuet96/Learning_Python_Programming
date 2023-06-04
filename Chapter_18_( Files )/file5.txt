@@ -1,0 +1,4 @@
+Abrar's salary is 100
+Haider's salary is 50
+Araf's salary is 200
+Ilham's salary is 500
